@@ -21,6 +21,6 @@ Feel free to explore to follow my progress.
 
 If you're new to Python or programming in general, you can get started by:
 
-1. Cloning the repository to your local machine:
+- Cloning the repository to your local machine:
    ```bash
    git clone https://github.com/smokemh/python-learning.git
